@@ -17,7 +17,7 @@ sudo apt-get upgrade
 sudo apt-get install cmake
 
 ## @ Attention: 
-##			apt-get command may not install cmake(version >= 3.20.0), 
+##			apt-get command may not install cmake with proper version(>= 3.20.0), 
 ##			alternative installation method is required as follows：
 ##
 ##			  @ Remove installed cmake version:
@@ -88,3 +88,4 @@ gmx pdb2gmx --version
 # Check if installation has been done
 gmx
 gmx pdb2gmx --version
+
