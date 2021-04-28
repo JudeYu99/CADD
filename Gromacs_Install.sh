@@ -5,7 +5,7 @@
 # @Address: Department of Bioinformatics, Medical College, Soochow University
 
 ## Special Attention: All the installation procedures may cause various errors,
-##					  Please check feedback and make adjustments to the following installation commands.
+##			Please check feedback and make adjustments to the following installation commands.
 
 ## ===================================================================================================== ##
 
@@ -16,7 +16,7 @@ sudo apt-get upgrade
 # Install required files/tools/softwares
 sudo apt-get install cmake
 
-## @ Attention: 
+## @ Cmake Installation Attention: 
 ##			apt-get command may not install cmake with proper version(>= 3.20.0), 
 ##			alternative installation method is required as follows：
 ##
