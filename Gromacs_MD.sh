@@ -7,6 +7,9 @@
 ## Special Attention: All the execution procedures may cause various errors, please check feedback and make adjustments to the following commands.
 ##					This workflow didn't involve NPT process!!!
 ## All required .mdp file will be uploaded together with this file.
+## REFERENCE：
+##    1.http://www.mdtutorials.com/gmx/lysozyme
+##    2.http://cgmartini.nl/~mdcourse/pepmd/md.html
 
 ## ===================================================================================================== ##
 
